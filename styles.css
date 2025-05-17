@@ -18,7 +18,6 @@ body{
 .mobileview {
   background-color: #7b5620;
   width: 428px;
-  height: 670px;
   overflow: auto;
   font-family: "Roboto", sans-serif;
 }
